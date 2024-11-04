@@ -1,0 +1,29 @@
+[
+  {
+    "cep": "72911-301",
+    "logradouro": "Quadra 45",
+    "bairro": "Jardim Pérola da Barragem II",
+    "localidade": "Águas Lindas de Goiás",
+    "uf": "GO",
+    "estado": "Goiás",
+    "ddd": 61
+  },
+  {
+    "cep": "99999-999",
+    "logradouro": "Avenida das Torres",
+    "bairro": "Jardim Centro Cívico",
+    "localidade": "Sarandi",
+    "uf": "PR",
+    "estado": "Paraná",
+    "ddd": 44
+  },
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "ddd": 11
+  }
+]
